@@ -18,9 +18,7 @@ body {
     min-height: 600px;
 }
 
-a:hover {
-    text-decoration: none;
-}
+
 
 .content-center {
     max-width: 800px;
